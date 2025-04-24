@@ -1,3 +1,5 @@
+# 🌦️ Weather App
+
 A simple React-based weather app that fetches current weather data using the [OpenWeatherMap API](https://openweathermap.org/api). Styled with Tailwind CSS.
 
 ## 🔧 Features
